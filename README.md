@@ -1,2 +1,2 @@
 # raspberry-pico
-个人项目
+瞎折腾树莓派
